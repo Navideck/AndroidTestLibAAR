@@ -7,7 +7,7 @@
   <groupId>com.github.Navideck</groupId>
   <artifactId>AndroidTestLibrary</artifactId>
   <version>1.8</version>
-  <packaging>pom</packaging>
+  <packaging>aar</packaging>
   <dependencies>
     <dependency>
       <groupId>org.jetbrains.kotlin</groupId>
