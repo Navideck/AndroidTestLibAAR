@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" 
-     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" 
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
- <groupId>com.github.Navideck</groupId>
+  <groupId>com.github.Navideck</groupId>
   <artifactId>AndroidTestLibrary</artifactId>
-  <version>1.16</version>
-  <dependencies>
-    <dependency>
-      <groupId>com.github.GrenderG</groupId>
-      <artifactId>Toasty</artifactId>
-      <version>1.5.2</version>
-    </dependency>
-  </dependencies>
+  <version>1.17</version>
+  <packaging>aar</packaging>
+  <dependencies/>
 </project>
