@@ -2,8 +2,8 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.Navideck</groupId>
   <artifactId>AndroidTestLibAAR</artifactId>
-  <version>1.20</version>
-  <packaging>aar</packaging>
+  <version>1.21</version>
+  <packaging>jar</packaging>
   <name>Navideck/AndroidTestLibAAR</name>
   <description>POM was created from install:install-file</description>
   <url>https://github.com/Navideck/AndroidTestLibAAR</url>
