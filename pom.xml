@@ -4,6 +4,6 @@
   <groupId>com.github.Navideck</groupId>
   <artifactId>AndroidTestLibrary</artifactId>
   <version>1.17</version>
-  <packaging>aar</packaging>
+  <packaging>jar</packaging>
   <dependencies/>
 </project>
