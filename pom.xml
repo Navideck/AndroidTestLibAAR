@@ -5,18 +5,8 @@
   <modelVersion>4.0.0</modelVersion>
  <groupId>com.github.Navideck</groupId>
   <artifactId>AndroidTestLibrary</artifactId>
-  <version>1.14</version>
+  <version>1.15</version>
   <dependencies>
-    <dependency>
-      <groupId>androidx.appcompat</groupId>
-      <artifactId>appcompat</artifactId>
-      <version>1.2.0</version>
-    </dependency>
-    <dependency>
-      <groupId>com.google.android.material</groupId>
-      <artifactId>material</artifactId>
-      <version>1.2.1</version>
-    </dependency>
     <dependency>
       <groupId>com.github.GrenderG</groupId>
       <artifactId>Toasty</artifactId>
