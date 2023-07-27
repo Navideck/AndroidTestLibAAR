@@ -3,13 +3,4 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.Navideck</groupId>
   <artifactId>AndroidTestLibrary</artifactId>
-  <version>1.30</version>
-  <dependencies>
-    <dependency>
-      <groupId>org.jetbrains.dokka</groupId>
-      <artifactId>android-documentation-plugin</artifactId>
-      <version>1.8.20</version>
-      <scope>runtime</scope>
-    </dependency>
-  </dependencies>
 </project>
