@@ -1,5 +1,7 @@
-install: 
-  - FILE="-Dfile=test.aar"
-  - VERSION="-Dversion=1.40"
-  - DOC="-Djavadoc=test-javadoc.jar"
-  - mvn install:install-file $FILE $DOC -DgroupId=com.github.Navideck -DartifactId=AndroidTestLibrary $VERSION -Dpackaging=aar -DgeneratePom=true
+ install:
+  - FILE="test.aar"
+  - DOC="test-javadoc.jar"
+  - VERSION="1.41"
+  - mvn install:install-file -Dfile=$FILE -Djavadoc=$DOC -DgroupId=com.github.Navideck -DartifactId=Gesturedeck-Android -Dversion=$VERSION -Dpackaging=aar -DgeneratePom=true
+
+
