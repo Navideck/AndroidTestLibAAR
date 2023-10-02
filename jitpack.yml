@@ -1,4 +1,5 @@
 install: 
   - FILE="-Dfile=test.aar"
-  - VERSION="-Dversion=1.35"
-  - mvn install:install-file $FILE -DgroupId=com.github.Navideck -DartifactId=AndroidTestLibrary $VERSION -Dpackaging=aar -DgeneratePom=true
+  - VERSION="-Dversion=1.36"
+  - SOURCE="-Dsources=test-sources.jar"
+  - mvn install:install-file $FILE $SOURCE -DgroupId=com.github.Navideck -DartifactId=AndroidTestLibrary $VERSION -Dpackaging=aar -DgeneratePom=true
