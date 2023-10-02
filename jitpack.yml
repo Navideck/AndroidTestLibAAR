@@ -1,7 +1,5 @@
  install:
   - FILE="test.aar"
   - DOC="test-javadoc.jar"
-  - VERSION="1.42"
+  - VERSION="1.44"
   - mvn install:install-file -Dfile=$FILE -Djavadoc=$DOC -DgroupId=com.github.Navideck -DartifactId=Gesturedeck-Android -Dversion=$VERSION -Dpackaging=aar -DgeneratePom=true
-
-
